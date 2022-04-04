@@ -223,5 +223,7 @@ ls
 ./a.out 
 gtkwave dvsd_pe.vcd 
 ########################################## understanding open lane flow using link https://www.youtube.com/watch?v=d0hPdkYg5QI #########
+# doubt syntax of git clone khalique whatsapp  vs youtube link 06:19
+
 
 
