@@ -211,3 +211,17 @@ git clone https://github.com/The-OpenROAD-Project/OpenLane.git
 cd OpenLane/
 make pull-openlane
 make test
+################################################################# starting project ##############################
+# khalique's priority encoder
+git clone https://github.com/Khalique13/dvsd_pe_sky130.git
+cd dvsd_pe_sky130/
+ls
+cd pre_layout_simulation/
+ls
+iverilog test_dvsd_pe.v 
+ls
+./a.out 
+gtkwave dvsd_pe.vcd 
+########################################## understanding open lane flow using link https://www.youtube.com/watch?v=d0hPdkYg5QI #########
+
+
